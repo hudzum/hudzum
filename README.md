@@ -1,4 +1,4 @@
-<h1 align="center">The World's First 0.5x Dev :technologist_tone1:</h1>
+<h1 align="center"> World's First 0.5x Dev 🧑🏻‍💻</h1>
 
 ###
 
